@@ -1,0 +1,62 @@
+.body {
+    background-color: rgb(204, 174, 218);
+    font-family: Arial;
+}
+
+.menumov {
+    position: fixed;
+    background-color: rgb(169, 65, 218);
+    border-style: solid;
+    border-color: rgb(169, 65, 218);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.menunom {
+    width: 150px;
+    height: 40px;
+    margin-right: 940px;
+}
+
+.menubtn {
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    background-color: rgb(178, 88, 219);
+    border-color: rgb(178, 88, 219);
+    color: white;
+    text-decoration: none;
+}
+
+.promocion {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+}
+
+.imgprom {
+    width: 900px;
+    height: 400px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    
+}
+
+.infoprom {
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5px;
+}
